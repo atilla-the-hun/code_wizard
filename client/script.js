@@ -112,5 +112,3 @@ form.addEventListener('keyup', (e) => {
     handleSubmit(e);
   }
 })
-
-window.scrollTo(0, 0);
