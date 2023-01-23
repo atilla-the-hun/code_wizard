@@ -151,6 +151,6 @@ form img {
 
 body {
   overflow-y: scroll;
-  position: fixed;
+  
   bottom: 0;
 }
