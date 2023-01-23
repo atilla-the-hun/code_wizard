@@ -149,4 +149,4 @@ form img {
   height: 30px;
 }
 
-@media only screen and (max-width:480px) {.app {height: 100px;}}
+@media only screen and (max-width:680px) {.app {height: 100px;}}
