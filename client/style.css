@@ -149,8 +149,7 @@ form img {
   height: 30px;
 }
 
-body {
+`html, body {
+  height: 100%;
   overflow-y: scroll;
-  position: fixed;
-  bottom: 0;
-}
+}`
