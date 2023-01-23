@@ -154,7 +154,6 @@ form img {
   overflow-y: scroll;
 }`
 
-`html, body { 
-  position: relative; 
-  top: 0; 
-}`
+body {
+  padding-top: 20px;
+}
