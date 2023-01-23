@@ -148,9 +148,3 @@ form img {
   width: 30px;
   height: 30px;
 }
-
-body {
-  overflow-y: scroll;
-  position: fixed;
-  bottom: 0;
-}
