@@ -141,6 +141,8 @@ textarea {
   border-radius: 5px;
   border: none;
   outline: none;
+  max-height: 400px;
+  resize: vertical;
 }
 
 button {
