@@ -107,8 +107,8 @@ const handleSubmit = async (e) => {
 }
 
 
-form.addEventListener('submit', (e) => {
+form.addEventListener('submit', handleSubmit) (e); {
   if (e.keyCode === 13) {
     handleSubmit(e);
   }
-})
+}
